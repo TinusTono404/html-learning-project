@@ -1,2 +1,3 @@
 # html-learning-project
-Belajar HTML dasar dan form
+Project latihan HTML dasar.
+Belajar semantic tag, form, dan image path.
